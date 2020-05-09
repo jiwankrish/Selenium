@@ -17,5 +17,9 @@ public class LoginTest {
     	
     	driver.get("https://www.dell.com/en-us");
     }
+	
+	public void testCommit() {
+		
+	}
 
 }
