@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17044" started-at="2020-05-09T11:49:00 CDT" finished-at="2020-05-09T11:49:17 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17044" started-at="2020-05-09T11:49:00 CDT" finished-at="2020-05-09T11:49:17 CDT">
+      <class name="com.test.Session5.WindowHandleDemo">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.test.Session5.WindowHandleDemo@26aa12dd]" name="launchBrowser" is-config="true" duration-ms="11921" started-at="2020-05-09T11:49:00 CDT" finished-at="2020-05-09T11:49:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testWhandle()[pri:0, instance:com.test.Session5.WindowHandleDemo@26aa12dd]" name="testWhandle" duration-ms="5076" started-at="2020-05-09T11:49:12 CDT" finished-at="2020-05-09T11:49:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhandle -->
+      </class> <!-- com.test.Session5.WindowHandleDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
