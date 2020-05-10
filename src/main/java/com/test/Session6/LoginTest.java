@@ -26,12 +26,9 @@ public class LoginTest {
 	}
 	
 	public void testMerge() {
-<<<<<<< HEAD
 		//Thank
-=======
 		//Thank You
 		//Thank You
->>>>>>> TestBranch
 	}
 
 }
