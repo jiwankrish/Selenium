@@ -23,5 +23,9 @@ public class LoginTest {
 		driver.findElement(By.xpath(""));
 		driver.findElement(By.className(""));
 	}
+	
+	public void testMerge() {
+		//Thank You
+	}
 
 }
