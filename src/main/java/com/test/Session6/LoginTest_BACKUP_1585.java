@@ -20,8 +20,11 @@ public class LoginTest {
     }
 	
 	public void testCommit() {
+<<<<<<< HEAD
 		driver.findElement(By.xpath(""));
+=======
 		driver.findElement(By.className(""));
+>>>>>>> master
 	}
 
 }

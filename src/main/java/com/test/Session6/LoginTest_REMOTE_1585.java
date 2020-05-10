@@ -20,7 +20,6 @@ public class LoginTest {
     }
 	
 	public void testCommit() {
-		driver.findElement(By.xpath(""));
 		driver.findElement(By.className(""));
 	}
 
