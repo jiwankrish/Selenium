@@ -22,16 +22,10 @@ public class LoginTest {
 	public void testCommit() {
 		driver.findElement(By.xpath(""));
 		driver.findElement(By.className(""));
-		driver.findElement(By.id(""));
 	}
 	
 	public void testMerge() {
-<<<<<<< HEAD
-		//Thank
-=======
 		//Thank You
-		//Thank You
->>>>>>> TestBranch
 	}
 
 }
